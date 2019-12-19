@@ -11,15 +11,16 @@ class Nicolas(Fam_member):
         super().__init__(surname)
         self.f_name = f_name
 
-
     def name(self):
         print(self.f_name)
 
-My_family = Nicolas('Sieciechowicz', 'Mikolaj')
-My_family.surname()
-My_family.name()
-My_fam = Fam_member('Sieciechowicz')
-My_fam.surname()
-print(My_fam.l_name)
+    def full_name(self):
+        print(self.f_name, self.l_name)
 
+nico = Nicolas('Sieciechowicz', 'Mikolaj')
+nico.surname()
+nico.name()
+nico.full_name()
+fam_mem = Fam_member('Sieciechowicz')
+fam_mem.surname()
 
