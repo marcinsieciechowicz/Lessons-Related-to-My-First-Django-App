@@ -52,3 +52,6 @@ fam_mem.surname()
 
 # learn about BUILT-IN FUNCTIONS from python.docs, 1 per day (there are about 70), also pythoninstitute (1 hour/day) making a course,
 # watch youtube films from user (added to favourites)
+
+# write you own program which will generate random built-in function of the day, formula you have in importer.py how to do it (use random and limit functions, they are sql functions)
+# stworzyc baze danych, wprowadzic do nich built-in functions, nastepnie stworzyc komendy
