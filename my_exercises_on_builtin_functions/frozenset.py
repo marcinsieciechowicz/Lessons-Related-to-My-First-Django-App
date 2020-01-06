@@ -10,4 +10,3 @@ my_dict = {'name': 'Marcin', 'age': 27, 'studies': 'WSB', 'best in': 'chess'}
 freeze = frozenset(my_dict)
 
 print('the frozenset is:', freeze)
-
