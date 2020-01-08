@@ -12,3 +12,5 @@ print(b)
 
 c = b.capitalize()
 print(c)
+
+
