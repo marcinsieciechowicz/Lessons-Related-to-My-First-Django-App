@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Sieciechowicz_analytics/.idea/Sieciechowicz_analytics.iml" filepath="$PROJECT_DIR$/../Sieciechowicz_analytics/.idea/Sieciechowicz_analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/my_first_lessons_Django.iml" filepath="$PROJECT_DIR$/.idea/my_first_lessons_Django.iml" />
       <module fileurl="file://$PROJECT_DIR$/../object_oriented_programming/.idea/object_oriented_programming.iml" filepath="$PROJECT_DIR$/../object_oriented_programming/.idea/object_oriented_programming.iml" />
     </modules>
