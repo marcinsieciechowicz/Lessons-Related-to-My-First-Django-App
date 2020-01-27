@@ -13,7 +13,7 @@ with conn:
     sql = 'UPDATE builtin_funcs SET learned_on = DATE() WHERE name = ?'
     cur.execute(sql, [random_builtin_func])
 
-# TODO: watch corey shafer  https://www.youtube.com/watch?v=MwZwr5Tvyxo
+
 # TODO:move the contents of the [builtin_functions] folder in the Lessons-Related-to-My-First-Django-App repo to a separate repository called Python Built-in Function of the Day Random Picker
 # TODO:print the function of the day to learn only after the database was updated
 # TODO:rename db to db.sqlite3
